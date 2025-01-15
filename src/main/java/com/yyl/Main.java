@@ -9,5 +9,6 @@ public class Main {
         System.out.println("Hello and welcome!");
         System.out.println("third commit");
         System.out.println("push commit");
+        System.out.println("pull test");
     }
 }
