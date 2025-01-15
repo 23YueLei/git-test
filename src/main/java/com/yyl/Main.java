@@ -8,5 +8,6 @@ public class Main {
         // 查看 IntelliJ IDEA 建议如何修正。
         System.out.println("Hello and welcome!");
         System.out.println("third commit");
+        System.out.println("push commit");
     }
 }
